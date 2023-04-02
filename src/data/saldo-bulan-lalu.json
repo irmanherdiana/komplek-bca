@@ -1,0 +1,14 @@
+[
+    {
+        "periode": "Februari",
+        "tahun": 2023,   
+        "saldoBulanLalu": 27832573,
+        "pemasukan": 10795000.00,
+        "pengeluaran": 9253000.00,
+        "saldo": 29374573.00,
+        "alokasiTHR": 0,
+        "alokasiPuasa": 0,
+        "alokasiPHBN": 0,
+        "saldoAkhir": 0
+    }
+]

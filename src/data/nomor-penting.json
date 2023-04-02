@@ -1,0 +1,44 @@
+[
+  {
+    "id": "A sep",
+    "label": "Asep",
+    "no": "085723517804",
+    "info": "SATPAM KOMPLEK",
+    "img": "/avatar-default.png"
+  },
+  {
+    "id": "U tis",
+    "label": "Utis",
+    "no": "089514883832",
+    "info": "SATPAM KOMPLEK",
+    "img": "/satpam/utis.jpg"
+  },
+  {
+    "id": "R osyd",
+    "label": "Rosyd",
+    "no": "089514885814",
+    "info": "SATPAM KOMPLEK",
+    "img": "/avatar-default.png"
+  },
+  {
+    "id": "A fif",
+    "label": "Afif",
+    "no": "083838709942",
+    "info": "SATPAM KOMPLEK",
+    "img": "/avatar-default.png"
+  },
+  {
+    "id": "D oni",
+    "label": "Doni",
+    "no": "081222307519",
+    "info": "KETUA RW.06",
+    "img": "/doni-rw.jpg"
+  },
+  {
+    "id": "M aman",
+    "label": "Maman",
+    "no": "082127161723",
+    "info": "KETUA RT.05",
+    "img": "/maman-rt.jpg"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "blok": "A05",
+    "nama": "RESTE PERDANA P/ESTER",
+    "tunggakanIuran": 1,
+    "tunggakanSampah": 2,
+    "saldoTunggakanIuranSd202212": 0,
+    "saldoTunggakanSampahSd202212": 0
+  },
+  {
+    "blok": "A06",
+    "nama": "ROY PP/ROSA",
+    "tunggakanIuran": 1,
+    "tunggakanSampah": 1,
+    "saldoTunggakanIuranSd202212": 0,
+    "saldoTunggakanSampahSd202212": 0
+  },
+  {
+    "blok": "B12A",
+    "nama": "HASAN SOBARI/LENI",
+    "tunggakanIuran": 2,
+    "tunggakanSampah": 2,
+    "saldoTunggakanIuranSd202212": 24,
+    "saldoTunggakanSampahSd202212": 24
+  },
+  {
+    "blok": "C19",
+    "nama": "HOTMAN",
+    "tunggakanIuran": 2,
+    "tunggakanSampah": 2,
+    "saldoTunggakanIuranSd202212": 0,
+    "saldoTunggakanSampahSd202212": 0
+  },
+  {
+    "blok": "C24",
+    "nama": "FERRY",
+    "tunggakanIuran": 2,
+    "tunggakanSampah": 0,
+    "saldoTunggakanIuranSd202212": 0,
+    "saldoTunggakanSampahSd202212": 0
+  },
+  {
+    "blok": "D02",
+    "nama": "ULI ACIM",
+    "tunggakanIuran": 2,
+    "tunggakanSampah": 2,
+    "saldoTunggakanIuranSd202212": 0,
+    "saldoTunggakanSampahSd202212": 0
+  },
+  {
+    "blok": "D20",
+    "nama": "EDI",
+    "tunggakanIuran": 1,
+    "tunggakanSampah": 2,
+    "saldoTunggakanIuranSd202212": 0,
+    "saldoTunggakanSampahSd202212": 0
+  }
+]

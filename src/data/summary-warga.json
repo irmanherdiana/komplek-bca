@@ -1,0 +1,32 @@
+[
+    {
+        "icon": "warga",
+        "count": 79,
+        "caption": "Blok"
+    },
+    {
+        "icon": "kk",
+        "count": 66,
+        "caption": "Kepala Keluarga"
+    },
+    {
+        "icon": "iuran",
+        "count": 73,
+        "caption": "Blok Wajib Iuran "
+    },
+    {
+        "icon": "sampah",
+        "count": "64",
+        "caption": "Blok Wajib Iuran Sampah"
+    },
+    {
+        "icon": "dev",
+        "count": "3",
+        "caption": "Kavling Developer"
+    },
+    {
+        "icon": "kosong",
+        "count": "10",
+        "caption": "Tidak Dihuni"
+    }
+]

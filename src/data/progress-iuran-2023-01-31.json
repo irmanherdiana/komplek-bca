@@ -1,0 +1,30 @@
+[
+    {
+        "iplJanuari": 59,
+        "iplFebruari": 20,
+        "iplMaret": 1,
+        "iplApril": 0,
+        "iplMei": 0,
+        "iplJuni": 0,
+        "iplJuli": 0,
+        "iplAgustus": 0,
+        "iplSeptember": 0,
+        "iplOktober": 0,
+        "iplNovember": 0,
+        "iplDesember": 0,
+        "sampahJanuari": 54,
+        "sampahFebruari": 32,
+        "sampahMaret": 14,
+        "sampahApril": 12,
+        "sampahMei": 9,
+        "sampahJuni": 7,
+        "sampahJuli": 4,
+        "sampahAgustus": 4,
+        "sampahSeptember": 4,
+        "sampahOktober": 4,
+        "sampahNovember": 4,
+        "sampahDesember": 4,
+        "kkWajibIuran": 73,
+        "kkWajibSampah": 64
+    }
+]

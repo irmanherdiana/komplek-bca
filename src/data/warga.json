@@ -1,0 +1,310 @@
+[
+  {
+    "blok": "",
+    "nama": "Pilih nomor blok"
+  },
+  {
+    "blok": "A01",
+    "nama": "RIO/ROSAN"
+  },
+  {
+    "blok": "A02",
+    "nama": "ANDRI/RATNA"
+  },
+  {
+    "blok": "A03",
+    "nama": "YUDHIE/IMA"
+  },
+  {
+    "blok": "A05",
+    "nama": "RESTE PERDANA P/ESTER"
+  },
+  {
+    "blok": "A06",
+    "nama": "ROY PP/ROSA"
+  },
+  {
+    "blok": "A07",
+    "nama": "YASOKA DEWI/SILALAHI"
+  },
+  {
+    "blok": "A08",
+    "nama": "MARDIYATNA"
+  },
+  {
+    "blok": "A09",
+    "nama": "KARMIN"
+  },
+  {
+    "blok": "A10",
+    "nama": "RAIDIN/YANTI"
+  },
+  {
+    "blok": "A11",
+    "nama": "APONG/YAYUK"
+  },
+  {
+    "blok": "A12A",
+    "nama": "ANAS SAEPUDIN"
+  },
+  {
+    "blok": "A12B",
+    "nama": "KARINA DWI W"
+  },
+  {
+    "blok": "A14",
+    "nama": "ESKANDAR"
+  },
+  {
+    "blok": "A15",
+    "nama": "YOSEPH"
+  },
+  {
+    "blok": "A16",
+    "nama": "YUDA/DEVI"
+  },
+  {
+    "blok": "A17",
+    "nama": "ATEP/WULAN"
+  },
+  {
+    "blok": "A18",
+    "nama": "TONI APRIYANTO/LUSI"
+  },
+  {
+    "blok": "A19",
+    "nama": "REZA/RISYA"
+  },
+  {
+    "blok": "A20",
+    "nama": "PURNAMA/ALI/NITA"
+  },
+  {
+    "blok": "A21",
+    "nama": "ADE JUARTA/INDRA"
+  },
+  {
+    "blok": "B01",
+    "nama": "DANA DARSONO"
+  },
+  {
+    "blok": "B02",
+    "nama": "JAMALUDIN/KIKI"
+  },
+  {
+    "blok": "B03",
+    "nama": "SUSI HERAWATI"
+  },
+  {
+    "blok": "B04",
+    "nama": "TAUFIQ/RINI"
+  },
+  {
+    "blok": "B05",
+    "nama": "IMAT/NENENG"
+  },
+  {
+    "blok": "B06",
+    "nama": "IRMAN/ENY"
+  },
+  {
+    "blok": "B07",
+    "nama": "DHEA/BERLIANTI"
+  },
+  {
+    "blok": "B08",
+    "nama": "ROFIQ IQBAL/HERA"
+  },
+  {
+    "blok": "B09",
+    "nama": "RINI WIDIARTI"
+  },
+  {
+    "blok": "B10",
+    "nama": "DINA KARISMA/WAHYU"
+  },
+  {
+    "blok": "B11",
+    "nama": "TRI YULIA/AGUS"
+  },
+  {
+    "blok": "B12A",
+    "nama": "HASAN SOBARI/LENI"
+  },
+  {
+    "blok": "B12B",
+    "nama": "DADAN KURNIA/GHINA"
+  },
+  {
+    "blok": "B14",
+    "nama": "DINDA/AMEL"
+  },
+  {
+    "blok": "B15",
+    "nama": "DARISMAN"
+  },
+  {
+    "blok": "C01",
+    "nama": "ADE/NOVIANA"
+  },
+  {
+    "blok": "C02",
+    "nama": "BINTANG"
+  },
+  {
+    "blok": "C03",
+    "nama": "BANGKIT/YULIA"
+  },
+  {
+    "blok": "C04",
+    "nama": "HARIYADI HARTONO"
+  },
+  {
+    "blok": "C05",
+    "nama": "AJENG LISDIANA"
+  },
+  {
+    "blok": "C08",
+    "nama": "SUBRATA"
+  },
+  {
+    "blok": "C09",
+    "nama": "TATI"
+  },
+  {
+    "blok": "C10",
+    "nama": "WIJI SAMIONO/WIAN"
+  },
+  {
+    "blok": "C12B",
+    "nama": "JAENURl"
+  },
+  {
+    "blok": "C14",
+    "nama": "M MASUD"
+  },
+  {
+    "blok": "C15",
+    "nama": "NONENG"
+  },
+  {
+    "blok": "C16",
+    "nama": "PANDU"
+  },
+  {
+    "blok": "C17",
+    "nama": "AGUNG/SARI"
+  },
+  {
+    "blok": "C18",
+    "nama": "IBNU/SOFI"
+  },
+  {
+    "blok": "C19",
+    "nama": "HOTMAN"
+  },
+  {
+    "blok": "C20",
+    "nama": "KABIT/NUNGKI"
+  },
+  {
+    "blok": "C22",
+    "nama": "PARWANTO/SRI"
+  },
+  {
+    "blok": "C23",
+    "nama": "TOPAN/RIDA"
+  },
+  {
+    "blok": "C24",
+    "nama": "FERRY"
+  },
+  {
+    "blok": "D01",
+    "nama": "MUKHLIS/YANI"
+  },
+  {
+    "blok": "D02",
+    "nama": "ULI ACIM"
+  },
+  {
+    "blok": "D03",
+    "nama": "FAJAR/WIWID"
+  },
+  {
+    "blok": "D04",
+    "nama": "RAHMAWATI UCUN"
+  },
+  {
+    "blok": "D05",
+    "nama": "GANIS KUNCORO"
+  },
+  {
+    "blok": "D06",
+    "nama": "HETTY"
+  },
+  {
+    "blok": "D07",
+    "nama": "ARIS/INTAN"
+  },
+  {
+    "blok": "D08",
+    "nama": "MUHAMMAD/INTAN"
+  },
+  {
+    "blok": "D10",
+    "nama": "ROLLY/NOVI"
+  },
+  {
+    "blok": "D11",
+    "nama": "IYOS/LILIS"
+  },
+  {
+    "blok": "D12A",
+    "nama": "YUSUF/YULIANTI"
+  },
+  {
+    "blok": "D12B",
+    "nama": "DADE/NISA"
+  },
+  {
+    "blok": "D14",
+    "nama": "ABDURAHMAN/ALFINDY"
+  },
+  {
+    "blok": "D16",
+    "nama": "SYAMSUL/RIA"
+  },
+  {
+    "blok": "D17",
+    "nama": "ROLLY/NOVI"
+  },
+  {
+    "blok": "D18",
+    "nama": "HERMAWAN/QONITA"
+  },
+  {
+    "blok": "D19",
+    "nama": "ACEP"
+  },
+  {
+    "blok": "D20",
+    "nama": "EDI"
+  },
+  {
+    "blok": "C11",
+    "nama": "KAVLING DEVELOPER"
+  },
+  {
+    "blok": "C12",
+    "nama": "KAVLING DEVELOPER"
+  },
+  {
+    "blok": "C07",
+    "nama": "KAVLING DEVELOPER"
+  },
+  {
+    "blok": "C21",
+    "nama": "KAVLING DEVELOPER"
+  }
+]

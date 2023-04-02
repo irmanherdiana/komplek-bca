@@ -1,0 +1,29 @@
+{
+    "tanggal": "11/03/2023",
+    "perihal": "Undangan Kegiatan",
+    "displayPhoto": true,
+    "photoUrl": "/pengumuman20230311.jpeg",
+    "pengumumanP1": "Kami mengundang Bapak/Ibu untuk hadir dalam acara pengajian bulanan komplek.",
+    "pengumumanP2": "",
+    "footer": "",
+    "previous": [
+        {
+            "tanggal": "16/02/2023",
+            "perihal": "Undangan Kegiatan",
+            "displayPhoto": true,
+            "photoUrl": "/pengumuman20230216.jpeg",
+            "pengumumanP1": "Kami mengundang Bapak/Ibu untuk hadir dalam acara pengajian memperingati Isra Mi’raj pada hari sabtu tanggal 18 februari 2023 ba’da isya di masjid komplek BCA.",
+            "pengumumanP2": "",
+            "footer": ""
+        },
+        {
+            "tanggal": "1/31/2023",
+            "perihal": "Keamanan Lingkungan",
+            "displayPhoto": true,
+            "photoUrl": "/pengumuman.jpg",
+            "pengumumanP1": "Berikut kami lampirkan foto petugas keamanan komplek yang baru bernama Bpk. Alit & petugas kebersihan yang baru bernama Bpk. Nana",
+            "pengumumanP2": "Untuk jaga malam dijadwalkan 2 orang satpam setiap harinya, untuk petugas kebersihan dijadwalkan setiap 2 kali dalam seminggu untuk membersihkan taman - taman dan jalanan komplek.",
+            "footer": ""
+        }
+    ]
+}
