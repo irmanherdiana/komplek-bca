@@ -20,7 +20,6 @@ import ProgressKas from './pages/progress_kas';
 import SlideshowKomplek from './slideshow';
 import WargaSummary from './pages/warga';
 import Nav from 'react-bootstrap/Nav';
-import NavDropdown from 'react-bootstrap/NavDropdown';
 import Offcanvas from 'react-bootstrap/Offcanvas';
 
 function App() {
